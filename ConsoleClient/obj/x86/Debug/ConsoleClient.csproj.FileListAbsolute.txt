@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Socket\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\Admin\Desktop\Socket\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\Admin\Desktop\Socket\ConsoleClient\obj\x86\Debug\ConsoleClient.exe
+C:\Users\Admin\Desktop\Socket\ConsoleClient\obj\x86\Debug\ConsoleClient.pdb
+H:\我的程序\C#\Socket\ConsoleClient\bin\Debug\ConsoleClient.exe
+H:\我的程序\C#\Socket\ConsoleClient\bin\Debug\ConsoleClient.pdb
+H:\我的程序\C#\Socket\ConsoleClient\obj\x86\Debug\ConsoleClient.csprojAssemblyReference.cache
+H:\我的程序\C#\Socket\ConsoleClient\obj\x86\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+H:\我的程序\C#\Socket\ConsoleClient\obj\x86\Debug\ConsoleClient.exe
+H:\我的程序\C#\Socket\ConsoleClient\obj\x86\Debug\ConsoleClient.pdb
