@@ -1,6 +1,6 @@
 # .net-core-Socket
 c# .NET CORE的socket。
-
+注：最新代码请访问https://bryanXBY@dev.azure.com/bryanXBY/Socket/_git/Socket
 服务端启动
 添加 ServerControl.cs到项目
 使用
